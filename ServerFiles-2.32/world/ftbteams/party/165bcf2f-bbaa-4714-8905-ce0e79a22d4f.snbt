@@ -1,0 +1,44 @@
+{
+	id: "165bcf2f-bbaa-4714-8905-ce0e79a22d4f"
+	type: "party"
+	owner: "6ae21334-2f11-4741-9305-aa671b0c35df"
+	ranks: {
+		fcb0ccdb-4b0a-4abc-85a7-c51b2ac249c7: "member"
+		6aaaec6f-051b-4c58-96b2-9a493fc02eb9: "member"
+		6ae21334-2f11-4741-9305-aa671b0c35df: "owner"
+		f0787301-90fb-4bb3-9bd4-6524c1a4c918: "officer"
+		a0e93d6d-39b9-4521-b17b-f994d7d0e33c: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "Ian's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFBD59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1738217453221L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"ianc_hy\"],\"color\":\"yellow\"}" }
+		{ from: "6ae21334-2f11-4741-9305-aa671b0c35df", date: 1738217453228L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"fatkeith\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1738217462972L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"fatkeith\"],\"color\":\"green\"}" }
+		{ from: "6ae21334-2f11-4741-9305-aa671b0c35df", date: 1738219480426L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"heihei521\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1738219487612L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"heihei521\"],\"color\":\"green\"}" }
+		{ from: "6ae21334-2f11-4741-9305-aa671b0c35df", date: 1738233534862L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"LeemurIsGod\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1738233541401L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"LeemurIsGod\"],\"color\":\"green\"}" }
+		{ from: "6ae21334-2f11-4741-9305-aa671b0c35df", date: 1738243964270L, text: "{\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"text\":\"LeemurIsGod\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "6ae21334-2f11-4741-9305-aa671b0c35df", date: 1738311707449L, text: "{\"translate\":\"ftbteams.message.invited\",\"with\":[{\"text\":\"SorryTmrMe_\",\"color\":\"yellow\"}],\"color\":\"green\"}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1738311720554L, text: "{\"translate\":\"ftbteams.message.joined\",\"with\":[\"SorryTmrMe_\"],\"color\":\"green\"}" }
+	]
+	extra: { }
+}
