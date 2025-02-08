@@ -1,0 +1,27 @@
+{
+	id: "639509C7B28C90DF"
+	loot_size: 1
+	order_index: 7
+	rewards: [
+		{ id: "1C9B2AB9778DA72E", item: { count: 1, id: "powah:thermo_generator_nitro" } }
+		{ id: "3D5FBAB7A888DE99", item: { count: 1, id: "minecraft:spawner" } }
+		{ id: "5E6E43DC01433625", item: { count: 1, id: "powah:solar_panel_nitro" } }
+		{
+			count: 36
+			id: "16E8B24D7A42D680"
+			item: {
+				count: 1
+				id: "powah:reactor_niotic"
+			}
+		}
+		{ id: "2DC71F6DF93992E5", item: { count: 1, id: "productivebees:spawn_egg_configurable_bee" } }
+		{
+			id: "409426FE69980DDF"
+			type: "xp_levels"
+			xp_levels: 100
+		}
+		{ id: "15A93DBCE4CB50A1", item: { count: 1, id: "productivebees:spawn_egg_configurable_bee" } }
+		{ id: "60C7CB2D1AE425FC", item: { count: 1, id: "productivebees:spawn_egg_configurable_bee" } }
+	]
+	use_title: true
+}

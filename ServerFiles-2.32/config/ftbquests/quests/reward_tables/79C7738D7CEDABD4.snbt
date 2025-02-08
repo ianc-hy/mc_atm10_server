@@ -1,0 +1,68 @@
+{
+	id: "79C7738D7CEDABD4"
+	loot_size: 1
+	order_index: 32
+	rewards: [
+		{ id: "418CDEBA267F63D5", item: { count: 1, id: "mysticalagriculture:iridium_seeds" } }
+		{ id: "1F2796902DCD2F63", item: { count: 1, id: "mysticalagriculture:platinum_seeds" } }
+		{ id: "7B6D4D7FA035F627", item: { count: 1, id: "mysticalagriculture:emerald_seeds" } }
+		{ id: "16DEB94176F73C80", item: { count: 1, id: "mysticalagriculture:diamond_seeds" } }
+		{ id: "4E6B8612525DC761", item: { count: 1, id: "mysticalagriculture:netherite_seeds" } }
+		{ id: "6900358F3FEE4475", item: { count: 1, id: "mysticalagriculture:cyanite_seeds" } }
+		{ id: "1172D26AEBCCF77B", item: { count: 1, id: "mysticalagriculture:niotic_crystal_seeds" } }
+		{ id: "5DC66CAA62699FF1", item: { count: 1, id: "mysticalagriculture:spirited_crystal_seeds" } }
+		{ id: "257266BFCCF3C829", item: { count: 1, id: "mysticalagriculture:uraninite_seeds" } }
+		{ id: "2083F9C1D1393A78", item: { count: 1, id: "mysticalagriculture:wither_skeleton_seeds" } }
+		{
+			count: 2
+			id: "5E703221CD5D24F8"
+			item: {
+				count: 1
+				id: "mysticalagriculture:supremium_essence"
+			}
+			random_bonus: 1
+			weight: 6.0f
+		}
+		{
+			id: "6FBC7C36CE82E317"
+			item: {
+				count: 1
+				id: "mysticalagriculture:supremium_block"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "340E7E91E559EFEE"
+			item: {
+				count: 1
+				id: "mysticalagriculture:supremium_ingot"
+			}
+			weight: 6.0f
+		}
+		{
+			id: "2C510E5A039706B3"
+			item: {
+				count: 1
+				id: "mysticalagriculture:supremium_gemstone"
+			}
+			weight: 4.0f
+		}
+		{
+			id: "5852F9B4ED5271AA"
+			item: {
+				count: 1
+				id: "mysticalagradditions:supremium_apple"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "0825EE21E5137354"
+			item: {
+				count: 1
+				id: "mysticalagradditions:supremium_coal"
+			}
+			weight: 4.0f
+		}
+	]
+	use_title: true
+}

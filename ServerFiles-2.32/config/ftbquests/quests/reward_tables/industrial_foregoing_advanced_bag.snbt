@@ -1,0 +1,68 @@
+{
+	id: "73E94318B401E916"
+	loot_size: 1
+	order_index: 36
+	rewards: [
+		{
+			id: "4564B40EC2727D0D"
+			item: {
+				count: 1
+				id: "industrialforegoing:machine_frame_advanced"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "76FE4FB0AE542EAB"
+			item: {
+				count: 1
+				id: "industrialforegoing:machine_frame_supreme"
+			}
+			weight: 0.1f
+		}
+		{
+			id: "2D92871944BCC1BC"
+			item: {
+				count: 1
+				id: "industrialforegoing:ether_gas_bucket"
+			}
+			weight: 0.4f
+		}
+		{
+			id: "14CD56400F622E49"
+			item: {
+				count: 1
+				id: "industrialforegoing:laser_drill"
+			}
+			weight: 0.7f
+		}
+		{
+			id: "6D0AE8C11A3C6F17"
+			item: {
+				count: 1
+				id: "industrialforegoing:fluid_laser_base"
+			}
+			weight: 0.2f
+		}
+		{
+			id: "69E46C0AC304FF48"
+			item: {
+				count: 1
+				id: "industrialforegoing:ore_laser_base"
+			}
+			weight: 0.3f
+		}
+		{
+			count: 16
+			id: "493E6C30E2456351"
+			item: {
+				count: 1
+				id: "industrialforegoing:plastic"
+			}
+			random_bonus: 16
+		}
+		{ id: "322192BC38D70EDE", item: { components: { "titanium:augments": { Processing: 3.0f } }, count: 1, id: "industrialforegoing:processing_addon_tier_2" } }
+		{ id: "06B38F5DA86FB6D3", item: { components: { "titanium:augments": { Speed: 3.0f } }, count: 1, id: "industrialforegoing:speed_addon_tier_2" } }
+		{ id: "5F0DA05814DE2514", item: { components: { "titanium:augments": { Efficiency: 0.8f } }, count: 1, id: "industrialforegoing:efficiency_addon_tier_2" } }
+	]
+	use_title: true
+}

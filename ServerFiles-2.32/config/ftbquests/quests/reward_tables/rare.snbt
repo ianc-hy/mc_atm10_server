@@ -1,0 +1,88 @@
+{
+	icon: {
+		id: "ftbquests:lootcrate"
+	}
+	id: "4D37FFAF33DF678A"
+	loot_size: 1
+	order_index: 5
+	rewards: [
+		{
+			id: "1E0D4AC7368FFF92"
+			item: {
+				count: 1
+				id: "minecraft:dragon_egg"
+			}
+			weight: 2.0f
+		}
+		{ id: "70B14ADC522C0AA1", item: { count: 1, id: "minecraft:dragon_head" } }
+		{
+			id: "56026DBD284C37DA"
+			item: {
+				count: 1
+				id: "ironfurnaces:diamond_furnace"
+			}
+			weight: 3.0f
+		}
+		{ id: "4F7D720DB260AFB7", item: { count: 1, id: "ironfurnaces:emerald_furnace" } }
+		{
+			id: "52719BBBA40E6681"
+			item: {
+				count: 1
+				id: "alltheores:enderium_ingot"
+			}
+			random_bonus: 3
+			weight: 5.0f
+		}
+		{
+			count: 8
+			id: "77881B9546360846"
+			item: {
+				count: 1
+				id: "mekanism:ultimate_universal_cable"
+			}
+			random_bonus: 8
+			weight: 5.0f
+		}
+		{
+			count: 4
+			id: "4A2472077AB4C6B2"
+			item: {
+				count: 1
+				id: "mekanism:ingot_refined_obsidian"
+			}
+			random_bonus: 4
+			weight: 5.0f
+		}
+		{
+			id: "4C91858794ABB457"
+			item: {
+				count: 1
+				id: "minecraft:beacon"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "54B750E7F07B0DED"
+			item: {
+				count: 1
+				id: "minecraft:nether_star"
+			}
+			random_bonus: 2
+			weight: 2.0f
+		}
+		{
+			id: "7E87029DE18C9893"
+			item: {
+				count: 1
+				id: "mininggadgets:mininggadget_simple"
+			}
+			weight: 2.0f
+		}
+		{ id: "5BACCD9413232673", item: { count: 1, id: "mininggadgets:mininggadget_fancy" } }
+		{ id: "6BACCDA5B46C3144", item: { count: 1, id: "functionalstorage:netherite_upgrade" } }
+		{ id: "0DF40CAAAAD8FB5D", item: { count: 1, id: "pipez:ultimate_upgrade" } }
+		{ id: "3E0D207EA71F0923", item: { count: 1, id: "mekanism:basic_fluid_tank" } }
+		{ id: "32D79A6F8AA3D6F6", item: { count: 1, id: "productivelib:upgrade_productivity" } }
+	]
+	use_title: true
+}

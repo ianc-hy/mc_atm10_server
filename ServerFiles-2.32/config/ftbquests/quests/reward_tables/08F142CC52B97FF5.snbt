@@ -1,0 +1,228 @@
+{
+	id: "08F142CC52B97FF5"
+	loot_size: 1
+	order_index: 42
+	rewards: [
+		{
+			count: 2
+			id: "5EF8987F26568227"
+			item: {
+				count: 1
+				id: "twilightforest:steeleaf_ingot"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+		{
+			count: 2
+			id: "2021EF868FEC2F89"
+			item: {
+				count: 1
+				id: "twilightforest:knightmetal_ingot"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+		{
+			count: 2
+			id: "5C582FFBE571D071"
+			item: {
+				count: 1
+				id: "twilightforest:raw_ironwood"
+			}
+			random_bonus: 1
+		}
+		{
+			count: 2
+			id: "06C46791CD7F9FD4"
+			item: {
+				count: 1
+				id: "twilightforest:ironwood_ingot"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+		{
+			count: 2
+			id: "7EF36112CA38A94D"
+			item: {
+				count: 1
+				id: "twilightforest:fiery_blood"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			count: 2
+			id: "546449777FD63453"
+			item: {
+				count: 1
+				id: "twilightforest:hydra_chop"
+			}
+			random_bonus: 1
+			weight: 0.2f
+		}
+		{
+			count: 5
+			id: "60300B3FDC8A55B0"
+			item: {
+				count: 1
+				id: "twilightforest:raw_venison"
+			}
+			random_bonus: 5
+		}
+		{
+			count: 5
+			id: "0C1213286ABABCA0"
+			item: {
+				count: 1
+				id: "twilightforest:cooked_venison"
+			}
+			random_bonus: 5
+		}
+		{
+			id: "4CA6B1E4C23D1EBA"
+			item: {
+				count: 1
+				id: "twilightforest:charm_of_life_1"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+		{
+			id: "16A6BE77EDE237DE"
+			item: {
+				count: 1
+				id: "twilightforest:charm_of_keeping_1"
+			}
+			random_bonus: 1
+			weight: 0.3f
+		}
+		{
+			id: "6834BB075C8FEBC4"
+			item: {
+				count: 1
+				id: "twilightforest:ore_magnet"
+			}
+			weight: 0.1f
+		}
+		{
+			count: 3
+			id: "4E00B9B653A1C80D"
+			item: {
+				count: 1
+				id: "twilightforest:reappearing_block"
+			}
+			random_bonus: 2
+			weight: 0.1f
+		}
+		{
+			count: 2
+			id: "04CA5DCB246C352C"
+			item: {
+				count: 1
+				id: "twilightforest:transformation_powder"
+			}
+			random_bonus: 1
+			weight: 0.25f
+		}
+		{
+			count: 4
+			id: "2B336FAA4EE6E4BE"
+			item: {
+				count: 1
+				id: "twilightforest:cicada"
+			}
+			random_bonus: 4
+			weight: 0.5f
+		}
+		{
+			id: "72E77CB352F0D7DF"
+			item: {
+				components: {
+					"minecraft:enchantments": {
+						levels: {
+							"minecraft:knockback": 1
+						}
+					}
+				}
+				count: 1
+				id: "twilightforest:ironwood_sword"
+			}
+			weight: 0.2f
+		}
+		{
+			id: "5C4B6CF929831EA1"
+			item: {
+				components: {
+					"minecraft:enchantments": {
+						levels: {
+							"minecraft:looting": 2
+						}
+					}
+				}
+				count: 1
+				id: "twilightforest:steeleaf_sword"
+			}
+			weight: 0.1f
+		}
+		{
+			id: "6ACD986978C4EA55"
+			item: {
+				count: 1
+				id: "twilightforest:boar_spawn_egg"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "6964F7CD5E38085C"
+			item: {
+				count: 1
+				id: "twilightforest:deer_spawn_egg"
+			}
+			weight: 0.25f
+		}
+		{
+			count: 2
+			id: "1AC74164C0EBCE42"
+			item: {
+				count: 1
+				id: "twilightforest:raven_feather"
+			}
+			random_bonus: 1
+			weight: 0.5f
+		}
+		{
+			id: "59A1FDB4CF58589D"
+			item: {
+				count: 1
+				id: "twilightforest:penguin_spawn_egg"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "4A717A662AC442F3"
+			item: {
+				count: 1
+				id: "twilightforest:raven_spawn_egg"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "36098436A56F668E"
+			item: {
+				count: 1
+				id: "twilightforest:squirrel_spawn_egg"
+			}
+			weight: 0.25f
+		}
+		{
+			id: "66D4E97C2B5247B6"
+			item: {
+				count: 1
+				id: "twilightforest:tiny_bird_spawn_egg"
+			}
+			weight: 0.25f
+		}
+	]
+}

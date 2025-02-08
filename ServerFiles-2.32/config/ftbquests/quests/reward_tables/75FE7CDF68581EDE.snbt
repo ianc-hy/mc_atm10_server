@@ -1,0 +1,48 @@
+{
+	id: "75FE7CDF68581EDE"
+	loot_size: 1
+	order_index: 22
+	rewards: [
+		{
+			count: 6
+			id: "3F684F9B47997D7A"
+			item: {
+				count: 1
+				id: "alltheores:steel_ingot"
+			}
+		}
+		{
+			count: 6
+			id: "6DCF98D2FE6CCD53"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+		}
+		{
+			count: 6
+			id: "074E3C3E64E24ABC"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+		}
+		{
+			count: 6
+			id: "24B23DDBDC5494E6"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+		}
+		{
+			count: 6
+			id: "031CFD4CCA99C9C4"
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+		}
+	]
+	use_title: true
+}

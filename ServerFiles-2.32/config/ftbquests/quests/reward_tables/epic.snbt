@@ -1,0 +1,36 @@
+{
+	id: "617F6D802ED0FD00"
+	loot_size: 1
+	order_index: 6
+	rewards: [
+		{ id: "49FCFD0494B75A8F", item: { count: 1, id: "powah:thermo_generator_spirited" } }
+		{ id: "5CA8CC5A8B6C1441", item: { count: 1, id: "mekanism:elite_energy_cube" } }
+		{
+			id: "43B19B3BC773EB4D"
+			item: {
+				count: 1
+				id: "functionalstorage:netherite_upgrade"
+			}
+			random_bonus: 1
+			weight: 2.0f
+		}
+		{
+			id: "7D92DB81150EC4C5"
+			item: {
+				count: 1
+				id: "pipez:ultimate_upgrade"
+			}
+			random_bonus: 2
+			weight: 2.0f
+		}
+		{ id: "137BD5AEAE50AF4C", item: { count: 1, id: "mekanism:ultimate_tier_installer" } }
+		{ id: "5C239E2CB8096A97", item: { count: 1, id: "ironfurnaces:netherite_furnace" } }
+		{ id: "04B98A4D53E0DCD6", item: { count: 1, id: "mekanism:quantum_entangloporter" } }
+		{
+			id: "7D7DBA412EDD0306"
+			type: "xp_levels"
+			xp_levels: 30
+		}
+	]
+	use_title: true
+}

@@ -1,0 +1,85 @@
+{
+	id: "1AE4A39086CA5564"
+	loot_size: 1
+	order_index: 31
+	rewards: [
+		{
+			id: "514B8DC047F2D4B4"
+			item: {
+				count: 1
+				id: "mysticalagriculture:imperium_farmland"
+			}
+			weight: 3.0f
+		}
+		{ id: "696D455E44CC7032", item: { count: 1, id: "mysticalagriculture:nickel_seeds" } }
+		{ id: "39AEEB66C6F78011", item: { count: 1, id: "mysticalagriculture:uranium_seeds" } }
+		{ id: "600FF31158F53179", item: { count: 1, id: "mysticalagriculture:soulium_seeds" } }
+		{ id: "6A11F90D0A612CC4", item: { count: 1, id: "mysticalagriculture:lapis_lazuli_seeds" } }
+		{ id: "69D98C33F1FB3C26", item: { count: 1, id: "mysticalagriculture:gold_seeds" } }
+		{ id: "3FCEFBBC93F808D5", item: { count: 1, id: "mysticalagriculture:end_seeds" } }
+		{ id: "276BBD28ADB5EB51", item: { count: 1, id: "mysticalagriculture:electrum_seeds" } }
+		{ id: "3588C3DEBD5AD3EA", item: { count: 1, id: "mysticalagriculture:constantan_seeds" } }
+		{ id: "4F36E06C0409B3BA", item: { count: 1, id: "mysticalagriculture:compressed_iron_seeds" } }
+		{ id: "1825941ED4261ACA", item: { count: 1, id: "mysticalagriculture:invar_seeds" } }
+		{ id: "1D2FDB448929B235", item: { count: 1, id: "mysticalagriculture:osmium_seeds" } }
+		{ id: "797DBCC57EC47FBD", item: { count: 1, id: "mysticalagriculture:fluix_seeds" } }
+		{ id: "7B400E19E3975051", item: { count: 1, id: "mysticalagriculture:refined_obsidian_seeds" } }
+		{ id: "6B71B780520F2310", item: { count: 1, id: "mysticalagriculture:refined_glowstone_seeds" } }
+		{ id: "46609E0C82307CA2", item: { count: 1, id: "mysticalagriculture:peridot_seeds" } }
+		{ id: "12E3507590AE0D90", item: { count: 1, id: "mysticalagriculture:ruby_seeds" } }
+		{ id: "5060A143187AE439", item: { count: 1, id: "mysticalagriculture:sapphire_seeds" } }
+		{ id: "0DE4E80B4A75197B", item: { count: 1, id: "mysticalagriculture:fluorite_seeds" } }
+		{ id: "0655BB17D07FA256", item: { count: 1, id: "mysticalagriculture:energized_steel_seeds" } }
+		{ id: "6CC1A4BA58F46794", item: { count: 1, id: "mysticalagriculture:blazing_crystal_seeds" } }
+		{ id: "01862B94751EA47E", item: { count: 1, id: "mysticalagriculture:enderman_seeds" } }
+		{ id: "2A9B87367479410A", item: { count: 1, id: "mysticalagriculture:blaze_seeds" } }
+		{ id: "38AA0D5C9F0E812D", item: { count: 1, id: "mysticalagriculture:ghast_seeds" } }
+		{ id: "7091DFFD181B1EF5", item: { count: 1, id: "mysticalagriculture:breeze_seeds" } }
+		{ id: "5D9B5B0C12ECC026", item: { count: 1, id: "mysticalagriculture:experience_seeds" } }
+		{
+			id: "4BB5462DAF402BFE"
+			item: {
+				count: 1
+				id: "mysticalagradditions:imperium_coal"
+			}
+			random_bonus: 2
+			weight: 3.0f
+		}
+		{
+			id: "298586915170E1AC"
+			item: {
+				count: 1
+				id: "mysticalagradditions:imperium_apple"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "14D81F4AA210E272"
+			item: {
+				count: 1
+				id: "mysticalagriculture:imperium_ingot"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "531A1CEEBC02884A"
+			item: {
+				count: 1
+				id: "mysticalagriculture:imperium_gemstone"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 2
+			id: "07CA01754D2150DB"
+			item: {
+				count: 1
+				id: "mysticalagriculture:imperium_essence"
+			}
+			random_bonus: 1
+			weight: 3.0f
+		}
+		{ id: "751285BC9B0596DD", item: { count: 1, id: "mysticalagriculture:imperium_block" } }
+	]
+	use_title: true
+}

@@ -1,0 +1,54 @@
+{
+	id: "0A18991D9745743A"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			count: 2
+			id: "6C60E1C38899D51E"
+			item: {
+				count: 1
+				id: "ae2:certus_quartz_crystal"
+			}
+			random_bonus: 2
+			weight: 10.0f
+		}
+		{
+			count: 4
+			id: "06D7D5C98FA01C89"
+			item: {
+				count: 1
+				id: "ae2:certus_quartz_dust"
+			}
+			random_bonus: 4
+			weight: 10.0f
+		}
+		{
+			id: "7779398E55FF4070"
+			item: {
+				count: 1
+				id: "ae2:fluix_crystal"
+			}
+			random_bonus: 1
+		}
+		{
+			id: "13AFCFE7E513F4B0"
+			item: {
+				count: 1
+				id: "ae2:fluix_dust"
+			}
+			random_bonus: 1
+		}
+		{
+			count: 2
+			id: "06B8B7E2D0F743E8"
+			item: {
+				count: 1
+				id: "ae2:charged_certus_quartz_crystal"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+	]
+	use_title: true
+}

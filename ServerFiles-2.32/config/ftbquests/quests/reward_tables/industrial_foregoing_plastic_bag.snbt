@@ -1,0 +1,98 @@
+{
+	id: "471CE0CD88F57EDC"
+	loot_size: 1
+	order_index: 34
+	rewards: [
+		{
+			id: "068E6964CE8EB9F8"
+			item: {
+				count: 1
+				id: "industrialforegoing:machine_frame_simple"
+			}
+			weight: 0.3f
+		}
+		{
+			id: "2E3C3BF1A1C3D0E8"
+			item: {
+				count: 1
+				id: "industrialforegoing:machine_frame_pity"
+			}
+			weight: 0.5f
+		}
+		{
+			count: 5
+			id: "2F7D91FD34783FD5"
+			item: {
+				count: 1
+				id: "industrialforegoing:plastic"
+			}
+			random_bonus: 5
+		}
+		{
+			id: "7D73EE38BA4ABC7E"
+			item: {
+				count: 1
+				id: "industrialforegoing:pink_slime_bucket"
+			}
+			weight: 0.5f
+		}
+		{
+			id: "724D8B9C09276AB8"
+			item: {
+				components: {
+					"titanium:augments": {
+						Speed: 2.0f
+					}
+				}
+				count: 1
+				id: "industrialforegoing:speed_addon_tier_1"
+			}
+			weight: 0.7f
+		}
+		{
+			id: "73D62B34C62794A7"
+			item: {
+				components: {
+					"titanium:augments": {
+						Efficiency: 0.9f
+					}
+				}
+				count: 1
+				id: "industrialforegoing:efficiency_addon_tier_1"
+			}
+			weight: 0.7f
+		}
+		{
+			id: "10EE31B269E9E14B"
+			item: {
+				components: {
+					"titanium:augments": {
+						Processing: 2.0f
+					}
+				}
+				count: 1
+				id: "industrialforegoing:processing_addon_tier_1"
+			}
+			weight: 0.7f
+		}
+		{
+			id: "7AE1C72A680BDA5B"
+			item: {
+				count: 1
+				id: "industrialforegoing:mob_imprisonment_tool"
+			}
+			weight: 0.3f
+		}
+		{
+			count: 3
+			id: "175A07F791F2897A"
+			item: {
+				count: 1
+				id: "industrialforegoing:pink_slime"
+			}
+			random_bonus: 2
+			weight: 0.5f
+		}
+	]
+	use_title: true
+}

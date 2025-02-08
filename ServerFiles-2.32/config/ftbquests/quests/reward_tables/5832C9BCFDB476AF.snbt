@@ -1,0 +1,33 @@
+{
+	id: "5832C9BCFDB476AF"
+	loot_size: 1
+	order_index: 27
+	rewards: [
+		{
+			count: 3
+			id: "343F8A6D829CD4FD"
+			item: {
+				count: 1
+				id: "ars_nouveau:source_gem"
+			}
+		}
+		{
+			count: 5
+			id: "340C876C60D4A716"
+			item: {
+				count: 1
+				id: "ars_nouveau:source_berry_pie"
+			}
+		}
+		{
+			count: 5
+			id: "5D6569E9A8B7006B"
+			item: {
+				count: 1
+				id: "ars_nouveau:source_berry_roll"
+			}
+		}
+		{ id: "37D04C9753EC5954", item: { count: 1, id: "ars_nouveau:source_jar" } }
+	]
+	use_title: true
+}

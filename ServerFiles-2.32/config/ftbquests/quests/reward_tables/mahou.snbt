@@ -1,0 +1,63 @@
+{
+	id: "779C873798AE0A92"
+	loot_size: 1
+	order_index: 43
+	rewards: [
+		{
+			count: 3
+			id: "0293D68CEB4C1BF6"
+			item: {
+				count: 1
+				id: "mahoutsukai:powdered_diamond"
+			}
+		}
+		{
+			count: 3
+			id: "68001DB88B5A86A1"
+			item: {
+				count: 1
+				id: "mahoutsukai:powdered_emerald"
+			}
+		}
+		{
+			count: 6
+			id: "15F38DD4F0159C24"
+			item: {
+				count: 1
+				id: "mahoutsukai:powdered_ender"
+			}
+		}
+		{
+			count: 3
+			id: "0A49BC697761A296"
+			item: {
+				count: 1
+				id: "mahoutsukai:powdered_eye"
+			}
+		}
+		{
+			count: 6
+			id: "0D076FF94E6887C8"
+			item: {
+				count: 1
+				id: "mahoutsukai:powdered_gold"
+			}
+		}
+		{
+			count: 6
+			id: "38A87D503C2D823C"
+			item: {
+				count: 1
+				id: "mahoutsukai:powdered_iron"
+			}
+		}
+		{
+			count: 6
+			id: "35C0AFADA4BEE327"
+			item: {
+				count: 1
+				id: "mahoutsukai:powdered_quartz"
+			}
+		}
+	]
+}

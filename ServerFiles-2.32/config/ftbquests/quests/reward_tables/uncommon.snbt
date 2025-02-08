@@ -1,0 +1,305 @@
+{
+	id: "3A3BDBA4E9AD13C4"
+	loot_size: 1
+	order_index: 4
+	rewards: [
+		{ id: "71FDDCF5D50D78B3", item: { count: 1, id: "modularrouters:distributor_module" } }
+		{ id: "338BA4F63A736A9D", item: { count: 1, id: "modularrouters:energy_distributor_module" } }
+		{ id: "1F5077915E31E481", item: { count: 1, id: "modularrouters:puller_module_2" } }
+		{
+			count: 4
+			id: "37B7D0D6FA9E4164"
+			item: {
+				count: 1
+				id: "modularrouters:speed_upgrade"
+			}
+			random_bonus: 4
+		}
+		{
+			id: "2B9D132C8FCB4028"
+			item: {
+				count: 1
+				id: "pipez:advanced_upgrade"
+			}
+			random_bonus: 1
+			weight: 3.0f
+		}
+		{
+			count: 8
+			id: "2C6206073123A49C"
+			item: {
+				count: 1
+				id: "pipez:universal_pipe"
+			}
+			random_bonus: 16
+			weight: 10.0f
+		}
+		{ id: "2948195CD972E391", item: { count: 1, id: "mekanism:advanced_tier_installer" } }
+		{
+			id: "28454785290AB794"
+			item: {
+				count: 1
+				id: "mekanism:basic_energy_cube"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "5CA59F4DFBB351EE"
+			item: {
+				count: 1
+				id: "mekanismgenerators:wind_generator"
+			}
+			weight: 5.0f
+		}
+		{ id: "3CF3DD186D8F9288", item: { count: 1, id: "minecraft:netherite_ingot" } }
+		{
+			id: "4D18DD14CE8B66C0"
+			item: {
+				count: 1
+				id: "functionalstorage:gold_upgrade"
+			}
+			weight: 2.0f
+		}
+		{
+			count: 3
+			id: "558A4C6472319FBD"
+			item: {
+				count: 1
+				id: "minecraft:diamond"
+			}
+			random_bonus: 3
+			weight: 10.0f
+		}
+		{
+			count: 8
+			id: "187CEAA7CA421B77"
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			random_bonus: 8
+			weight: 20.0f
+		}
+		{
+			count: 4
+			id: "026B444D41650EA1"
+			item: {
+				count: 1
+				id: "minecraft:gold_ingot"
+			}
+			random_bonus: 4
+			weight: 15.0f
+		}
+		{
+			count: 16
+			id: "5042C9F7AA37ACB0"
+			item: {
+				count: 1
+				id: "minecraft:lapis_lazuli"
+			}
+			random_bonus: 8
+			weight: 20.0f
+		}
+		{
+			id: "621347969EC42DBB"
+			item: {
+				count: 1
+				id: "minecraft:iron_block"
+			}
+			weight: 15.0f
+		}
+		{
+			id: "38ED4D4CE921CBA7"
+			item: {
+				count: 1
+				id: "minecraft:diamond_block"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "6065B6B24B204DE2"
+			item: {
+				count: 1
+				id: "minecraft:gold_block"
+			}
+			weight: 12.0f
+		}
+		{
+			id: "0D129C5D1E5CA954"
+			item: {
+				count: 1
+				id: "minecraft:redstone_block"
+			}
+			random_bonus: 2
+			weight: 20.0f
+		}
+		{
+			id: "6085BEFC4F3BBF3D"
+			item: {
+				count: 1
+				id: "minecraft:emerald_block"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "1963A29574CD8D57"
+			item: {
+				count: 1
+				id: "minecraft:netherite_scrap"
+			}
+			random_bonus: 1
+			weight: 5.0f
+		}
+		{ id: "2203701833329EF9", item: { count: 1, id: "minecraft:netherite_ingot" } }
+		{
+			id: "2122CB8CFACC2C99"
+			item: {
+				count: 1
+				id: "minecraft:lava_bucket"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "6DE233D18FB0884A"
+			item: {
+				count: 1
+				id: "mekanismgenerators:wind_generator"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "10651264AA8E6E2D"
+			item: {
+				count: 1
+				id: "powah:solar_panel_basic"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "52116D79DA77520C"
+			item: {
+				count: 1
+				id: "powah:thermo_generator_basic"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "4986CC8A95F6F575"
+			item: {
+				count: 1
+				id: "mekanismgenerators:gas_burning_generator"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "1E5297E975A0C73E"
+			item: {
+				count: 1
+				id: "functionalstorage:compacting_drawer"
+			}
+			weight: 10.0f
+		}
+		{
+			id: "1B680DBDA2D1EB5C"
+			item: {
+				count: 1
+				id: "functionalstorage:storage_controller"
+			}
+			weight: 3.0f
+		}
+		{
+			count: 4
+			id: "410E37478EBB87EC"
+			item: {
+				count: 1
+				id: "minecraft:ender_pearl"
+			}
+			random_bonus: 4
+			weight: 10.0f
+		}
+		{
+			id: "0B313D8A93A0A22E"
+			item: {
+				count: 1
+				id: "minecraft:ender_eye"
+			}
+			random_bonus: 2
+			weight: 5.0f
+		}
+		{
+			count: 4
+			id: "10A04F381D3BDB67"
+			item: {
+				count: 1
+				id: "minecraft:quartz"
+			}
+			random_bonus: 4
+			weight: 10.0f
+		}
+		{
+			count: 4
+			id: "74687CDE04BDC859"
+			item: {
+				count: 1
+				id: "ae2:silicon"
+			}
+			random_bonus: 8
+			weight: 15.0f
+		}
+		{
+			count: 4
+			id: "5980DAFC424ABFFF"
+			item: {
+				count: 1
+				id: "functionalstorage:oak_1"
+			}
+			random_bonus: 4
+			weight: 10.0f
+		}
+		{
+			id: "67AA0AFC0BEE0C1F"
+			item: {
+				count: 1
+				id: "functionalstorage:void_upgrade"
+			}
+			random_bonus: 2
+			weight: 10.0f
+		}
+		{
+			id: "62E16AC205A2B6B8"
+			item: {
+				count: 1
+				id: "minecraft:saddle"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "620F432CB0F81A5D"
+			item: {
+				count: 1
+				id: "minecraft:name_tag"
+			}
+			weight: 5.0f
+		}
+		{
+			id: "077D071FB545B0AD"
+			item: {
+				count: 1
+				id: "ironfurnaces:gold_furnace"
+			}
+			weight: 3.0f
+		}
+		{
+			id: "71D76A994C03F136"
+			item: {
+				count: 1
+				id: "minecraft:wither_skeleton_skull"
+			}
+			weight: 10.0f
+		}
+		{ id: "7ACDAEA5A4D7AE37", item: { count: 1, id: "productivelib:upgrade_simulator" } }
+		{ id: "55A69D0A10428799", item: { count: 1, id: "productivelib:upgrade_time" } }
+		{ id: "4AEA1C5B0B2C680B", item: { count: 1, id: "productivelib:upgrade_child" } }
+	]
+	use_title: true
+}

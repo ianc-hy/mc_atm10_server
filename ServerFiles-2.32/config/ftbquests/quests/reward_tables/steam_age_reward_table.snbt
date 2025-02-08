@@ -1,0 +1,56 @@
+{
+	icon: {
+		id: "modern_industrialization:steam_quarry"
+	}
+	id: "0F18B2B15BE4FF2B"
+	loot_size: 1
+	order_index: 39
+	rewards: [
+		{
+			count: 8
+			id: "2E2F7B05BC7D18DC"
+			item: {
+				count: 1
+				id: "alltheores:steel_ingot"
+			}
+			weight: 0.8f
+		}
+		{
+			count: 16
+			id: "62E95DEB5ED719EE"
+			item: {
+				count: 1
+				id: "minecraft:copper_ingot"
+			}
+			weight: 1.5f
+		}
+		{ id: "0B50A5341A6B38BD", item: { count: 1, id: "modern_industrialization:bronze_tank" } }
+		{ id: "0B2F8E915B2D6867", item: { count: 1, id: "modern_industrialization:bronze_barrel" } }
+		{
+			count: 8
+			id: "37CA31962C1EDECB"
+			item: {
+				count: 1
+				id: "alltheores:bronze_ingot"
+			}
+			weight: 1.2f
+		}
+		{
+			count: 2
+			id: "7D5496BD1E823B4D"
+			item: {
+				count: 1
+				id: "modern_industrialization:bronze_machine_casing"
+			}
+			weight: 0.4f
+		}
+		{
+			id: "0F7091222BA761BE"
+			item: {
+				count: 1
+				id: "modern_industrialization:steel_machine_casing"
+			}
+			weight: 0.3f
+		}
+	]
+}

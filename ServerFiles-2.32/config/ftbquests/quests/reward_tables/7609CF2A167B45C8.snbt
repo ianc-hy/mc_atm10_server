@@ -1,0 +1,40 @@
+{
+	id: "7609CF2A167B45C8"
+	loot_size: 1
+	order_index: 28
+	rewards: [
+		{
+			count: 5
+			id: "187A0262A7C51AEC"
+			item: {
+				count: 1
+				id: "theurgy:alchemical_salt_strata"
+			}
+		}
+		{
+			count: 4
+			id: "2AD4F4E3E362A81D"
+			item: {
+				count: 1
+				id: "theurgy:alchemical_salt_mineral"
+			}
+		}
+		{
+			count: 3
+			id: "7B11FF42B9258151"
+			item: {
+				count: 1
+				id: "theurgy:alchemical_salt_plant"
+			}
+		}
+		{
+			count: 2
+			id: "21E421C60D3ABF10"
+			item: {
+				count: 1
+				id: "theurgy:alchemical_salt_creature"
+			}
+		}
+	]
+	use_title: true
+}

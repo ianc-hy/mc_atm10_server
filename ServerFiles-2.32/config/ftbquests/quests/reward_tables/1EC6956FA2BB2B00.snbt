@@ -1,0 +1,92 @@
+{
+	id: "1EC6956FA2BB2B00"
+	loot_size: 1
+	order_index: 38
+	rewards: [
+		{
+			count: 3
+			id: "4516BBCEAF1CC8D1"
+			item: {
+				count: 1
+				id: "minecraft:chest"
+			}
+			random_bonus: 2
+			weight: 1.5f
+		}
+		{
+			count: 3
+			id: "4634BD8FEEC2CB04"
+			item: {
+				count: 1
+				id: "minecraft:barrel"
+			}
+			random_bonus: 2
+			weight: 1.5f
+		}
+		{
+			count: 2
+			id: "3C24B56A0C4B8278"
+			item: {
+				count: 1
+				id: "minecraft:ender_chest"
+			}
+			random_bonus: 1
+			weight: 0.75f
+		}
+		{
+			count: 2
+			id: "745C333BE575C0B7"
+			item: {
+				count: 1
+				id: "sophisticatedstorage:upgrade_base"
+			}
+			random_bonus: 1
+			weight: 1.5f
+		}
+		{
+			count: 2
+			id: "24C14CFE63FE8CB6"
+			item: {
+				count: 1
+				id: "sophisticatedbackpacks:upgrade_base"
+			}
+			random_bonus: 1
+			weight: 1.5f
+		}
+		{
+			count: 2
+			id: "521EF19F03357D73"
+			item: {
+				count: 1
+				id: "functionalstorage:oak_1"
+			}
+			random_bonus: 1
+		}
+		{ id: "5C43CB3CBF189A37", item: { count: 1, id: "minecraft:chest_minecart" } }
+		{
+			id: "31516350323CCEFB"
+			item: {
+				count: 1
+				id: "minecraft:hopper"
+			}
+			random_bonus: 1
+			weight: 1.5f
+		}
+		{ id: "4639A70BDD4E61F9", item: { count: 1, id: "sophisticatedstorage:packing_tape" } }
+		{ id: "1F2698003E75E649", item: { count: 1, id: "trashcans:item_trash_can" } }
+		{ id: "0CF1E44D77DC28AD", item: { count: 1, id: "minecraft:oak_chest_boat" } }
+		{
+			count: 2
+			id: "3419A5F1A7AEC428"
+			item: {
+				components: {
+					"sophisticatedstorage:wood_type": "oak"
+				}
+				count: 1
+				id: "sophisticatedstorage:chest"
+			}
+			random_bonus: 1
+			weight: 1.5f
+		}
+	]
+}

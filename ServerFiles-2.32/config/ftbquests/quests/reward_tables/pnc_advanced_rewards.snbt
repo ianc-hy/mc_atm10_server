@@ -1,0 +1,76 @@
+{
+	id: "7FB97C5850827C71"
+	loot_size: 1
+	order_index: 26
+	rewards: [
+		{
+			count: 5
+			id: "113F32495EB4DF28"
+			item: {
+				count: 1
+				id: "pneumaticcraft:advanced_pressure_tube"
+			}
+			random_bonus: 5
+			weight: 1.5f
+		}
+		{
+			id: "0406FD2F7DDC8D35"
+			item: {
+				count: 1
+				id: "pneumaticcraft:aphorism_tile"
+			}
+			random_bonus: 1
+			weight: 2.0f
+		}
+		{
+			count: 2
+			id: "71960566E37E0470"
+			item: {
+				count: 1
+				id: "pneumaticcraft:solar_cell"
+			}
+			random_bonus: 1
+			weight: 2.0f
+		}
+		{ id: "253B82C843B8F5C0", item: { count: 1, id: "pneumaticcraft:solar_compressor" } }
+		{ id: "1E213329425C7E47", item: { count: 1, id: "pneumaticcraft:pneumatic_dynamo" } }
+		{ id: "6801315D6E576B9E", item: { count: 1, id: "pneumaticcraft:flux_compressor" } }
+		{ id: "0B295A0BD6AB5886", item: { count: 1, id: "pneumaticcraft:electrostatic_compressor" } }
+		{ id: "02FC34450E375D1B", item: { count: 1, id: "pneumaticcraft:advanced_liquid_compressor" } }
+		{
+			id: "5F78BA622C6A1E8B"
+			item: {
+				count: 1
+				id: "pneumaticcraft:large_tank"
+			}
+			weight: 2.0f
+		}
+		{
+			id: "34322354F3A8685B"
+			item: {
+				count: 1
+				id: "pneumaticcraft:pressurized_spawner"
+			}
+			weight: 1.5f
+		}
+		{
+			id: "45F5779CAFD5FAAF"
+			item: {
+				count: 1
+				id: "pneumaticcraft:reinforced_air_canister"
+			}
+			random_bonus: 1
+			weight: 2.0f
+		}
+		{ id: "42AF36177A1DAEA9", item: { count: 1, id: "pneumaticcraft:jet_boots_upgrade_1" } }
+		{
+			id: "05580F7FE75C9162"
+			item: {
+				count: 1
+				id: "pneumaticcraft:jet_boots_upgrade_2"
+			}
+			weight: 0.5f
+		}
+	]
+	use_title: true
+}
